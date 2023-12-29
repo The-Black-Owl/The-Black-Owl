@@ -1,5 +1,3 @@
-Sure, here's a refined version of your GitHub bio:
-
 👋 Hi, I’m @The-Black-Owl, a physicist turned tech enthusiast. Exploring the universe's intricacies led me to embrace the elegance of scientific inquiry, but my journey has veered into the exciting realms of technology and software development.
 
 My aim? To master full-stack development, harnessing Java, Angular, and Python to craft innovative solutions. I thrive on building seamless REST APIs, delving into data science, and immersing myself in the captivating world of robotics. My passion? Bridging the gap between scientific understanding and technological innovation.
