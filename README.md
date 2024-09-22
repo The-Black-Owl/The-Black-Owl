@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Sabelo, a physicist turned tech enthusiast.<br>Exploring the universe's intricacies led me to embrace the <br>elegance of scientific inquiry, but my journey has veered into the<br>exciting realms of technology and software development.<br><br>I am currently working on a console base bank app using java.<br><br>I am currently learning Java 11 SE.<br><br>My aim? To master full-stack development, <br>harnessing Java and Angular to craft innovative solutions. <br>I thrive on building seamless REST APIs and immersing myself in the <br>captivating world of robotics. My passion? Bridging the gap between <br>scientific understanding and technological innovation.<br>
+Hi, I’m Sabelo, a physicist turned tech enthusiast. Exploring the universe's intricacies led me to embrace the <br>elegance of scientific inquiry, but my journey has veered into the<br>exciting realms of technology and software development. I am currently working on a console base bank app using java.<br><br>I am currently learning Java 11 SE. My aim? To master full-stack development, harnessing Java and Angular to craft innovative solutions. I thrive on building seamless REST APIs and immersing myself in the <br>captivating world of robotics. My passion? Bridging the gap between scientific understanding and technological innovation.<br>
 
 
 ## 🌐 Socials:
